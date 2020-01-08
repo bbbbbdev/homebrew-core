@@ -1,6 +1,6 @@
 # Homebrew Core
 
-Core formulae for the Homebrew package manager.
+macOS缺少的软件包管理器的默认公式 https://brew.sh
 
 Core formulae for the Linuxbrew package manager (Homebrew on Linux or Windows 10 Subsystem for Linux) are in [Homebrew/linuxbrew-core](https://github.com/Homebrew/linuxbrew-core).
 
